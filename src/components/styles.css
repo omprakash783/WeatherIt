@@ -1,0 +1,68 @@
+*{
+    margin-left:10px;
+}
+
+iframe{
+    width:"850";
+    height:"450";
+    border:"0" ;
+    float:right;
+    margin-right: 100px;
+}
+
+#locbtn{
+    position: absolute;
+    top:80px;
+    left:40px;
+  background-color:darkseagreen;
+  border: none;
+  color: white;
+  padding: 15px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  
+}
+
+#weabtn{
+    margin-top:30px;
+    font-size:16px;
+}
+
+#h3loc{
+    margin: 90px 10px 10px 125px;
+    padding: auto;
+    box-sizing: content-box;
+}
+
+#h3cur{
+    margin-top:70px;
+}
+
+th{
+     padding-left:25px;
+     color:darkblue;
+}
+
+td{
+    padding-left:25px;
+    text-align:center;
+}
+
+#h3wea{
+    padding-top:15px;
+    margin-bottom: 5px;
+}
+
+#tbweather{
+    padding-top:5px;
+    margin-top: 0px;
+}
+
+#droptable{
+    margin-top:15px;
+}
+
+
+
